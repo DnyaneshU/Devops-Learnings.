@@ -1,4 +1,4 @@
-````markdown
+
 # Git Learnings
 
 ## 1. What Is Git?
