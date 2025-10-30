@@ -1,6 +1,3 @@
-
-# Git Learnings
-
 ## 1. What Is Git?
 
 Git is a **Distributed Version Control System (DVCS)** used to track and manage changes in code. It allows multiple developers to collaborate efficiently by maintaining a complete history of modifications in a repository. Git ensures reliability, version tracking, and parallel development across teams.
