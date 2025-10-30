@@ -80,6 +80,8 @@ git config --global -e
 
 ### **4.2 Initializing a Repository**
 
+Headsup: If you wish to see the meaning of each command, you may directly head to section 6.
+
 ```bash
 git init
 ```
@@ -227,8 +229,5 @@ git show HEAD~1:file1.js
 
 ---
 
-*End of Document.*
-
-```
 
 
